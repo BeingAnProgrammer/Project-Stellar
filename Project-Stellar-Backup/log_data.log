@@ -1,0 +1,1719 @@
+2022-03-11 17:58:55.098 Initialized tornado logs
+2022-03-11 17:58:55.099 Loaded backend agg version unknown.
+2022-03-11 17:58:55.099 Setting up signal handler
+2022-03-11 17:58:55.100 Using selector: SelectSelector
+2022-03-11 17:58:55.105 Starting server...
+2022-03-11 17:58:55.105 Serving static content from C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\site-packages\streamlit\static
+2022-03-11 17:58:55.107 Server started on port 8501
+2022-03-11 17:58:55.107 No singleton. Registering one.
+2022-03-11 17:58:55.111 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py
+2022-03-11 17:58:55.111 ReportSession initialized (id=2a02f997-b10b-40c0-b009-a2da36884c53)
+2022-03-11 17:58:55.111 Created new session for ws 140727618284760. Session ID: 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 17:58:55.112 Beginning script thread
+2022-03-11 17:58:55.113 Server state: State.INITIAL -> State.WAITING_FOR_FIRST_BROWSER
+2022-03-11 17:58:55.113 File timestamp did not change: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py
+2022-03-11 17:58:55.113 Running script RerunData(query_string='', widget_states=None)
+2022-03-11 17:58:55.114 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 17:58:55.114 Sessions still active: dict_keys([])
+2022-03-11 17:58:55.114 Files: 0; Sessions with files: 0
+2022-03-11 17:58:55.115 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 17:58:55.155 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\sms.py.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BA45070>)}
+2022-03-11 17:58:55.241 Popen(['git', 'version'], cwd=C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code, universal_newlines=False, shell=None, istream=None)
+2022-03-11 17:58:55.366 Popen(['git', 'version'], cwd=C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code, universal_newlines=False, shell=None, istream=None)
+2022-03-11 17:58:55.467 Failed checking if running in CYGWIN due to: FileNotFoundError(2, 'The system cannot find the file specified', None, 2, None)
+2022-03-11 17:58:55.491 Skipping PyPI version check
+2022-03-11 17:58:55.617 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BA45070>)}
+2022-03-11 17:58:55.631 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 17:58:55.632 Deleting expired files...
+2022-03-11 17:58:55.664 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 17:58:55.885 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 17:58:55.886 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\sms.py
+2022-03-11 17:59:00.592 Reused preheated session for ws 2140433923664. Session ID: 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 17:59:00.592 Server state: State.WAITING_FOR_FIRST_BROWSER -> State.ONE_OR_MORE_BROWSERS_CONNECTED
+2022-03-11 17:59:00.605 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 17:59:00.649 Received the following back message:
+rerun_script {
+  widget_states {
+  }
+}
+
+2022-03-11 17:59:00.652 Skipping rerun since the preheated run is the same
+2022-03-11 18:03:42.698 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+  }
+}
+
+2022-03-11 18:03:42.713 Beginning script thread
+2022-03-11 18:03:42.716 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+)
+2022-03-11 18:03:42.717 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:03:42.717 Sessions still active: dict_keys([])
+2022-03-11 18:03:42.718 Files: 0; Sessions with files: 0
+2022-03-11 18:03:42.718 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:03:42.739 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:03:42.742 Deleting expired files...
+2022-03-11 18:03:42.883 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:03:44.917 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:03:52.952 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "subject "
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+  }
+}
+
+2022-03-11 18:03:52.960 Beginning script thread
+2022-03-11 18:03:52.965 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "subject "
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+)
+2022-03-11 18:03:52.966 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:03:52.967 Sessions still active: dict_keys([])
+2022-03-11 18:03:52.968 Files: 0; Sessions with files: 0
+2022-03-11 18:03:52.969 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:03:53.002 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:03:53.009 Deleting expired files...
+2022-03-11 18:03:53.260 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:03:55.844 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:03:57.758 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "subject "
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the message"
+    }
+  }
+}
+
+2022-03-11 18:03:57.760 Beginning script thread
+2022-03-11 18:03:57.761 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "subject "
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the message"
+}
+)
+2022-03-11 18:03:57.763 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:03:57.764 Sessions still active: dict_keys([])
+2022-03-11 18:03:57.767 Files: 0; Sessions with files: 0
+2022-03-11 18:03:57.767 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:03:57.786 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:03:57.788 Deleting expired files...
+2022-03-11 18:03:57.918 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:04:00.666 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:04:30.697 1 file(s) received for session 2a02f997-b10b-40c0-b009-a2da36884c53 widget $$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email
+2022-03-11 18:04:30.756 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "subject "
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 1
+        uploaded_file_info {
+          id: 1
+          name: "email.csv"
+          size: 316
+        }
+      }
+    }
+  }
+}
+
+2022-03-11 18:04:30.785 Beginning script thread
+2022-03-11 18:04:30.808 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "subject "
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 1
+    uploaded_file_info {
+      id: 1
+      name: "email.csv"
+      size: 316
+    }
+  }
+}
+)
+2022-03-11 18:04:30.811 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:04:30.812 Sessions still active: dict_keys([])
+2022-03-11 18:04:30.813 Files: 0; Sessions with files: 0
+2022-03-11 18:04:30.814 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:04:30.965 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:04:30.995 Deleting expired files...
+2022-03-11 18:04:31.278 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:04:34.555 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:04:43.516 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial subject "
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 1
+        uploaded_file_info {
+          id: 1
+          name: "email.csv"
+          size: 316
+        }
+      }
+    }
+  }
+}
+
+2022-03-11 18:04:43.519 Beginning script thread
+2022-03-11 18:04:43.523 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial subject "
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 1
+    uploaded_file_info {
+      id: 1
+      name: "email.csv"
+      size: 316
+    }
+  }
+}
+)
+2022-03-11 18:04:43.524 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:04:43.525 Sessions still active: dict_keys([])
+2022-03-11 18:04:43.525 Files: 0; Sessions with files: 0
+2022-03-11 18:04:43.526 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:04:43.598 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:04:43.601 Deleting expired files...
+2022-03-11 18:04:43.844 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:04:47.222 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:04:49.635 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial subject "
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the trial message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 1
+        uploaded_file_info {
+          id: 1
+          name: "email.csv"
+          size: 316
+        }
+      }
+    }
+  }
+}
+
+2022-03-11 18:04:49.638 Beginning script thread
+2022-03-11 18:04:49.639 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial subject "
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the trial message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 1
+    uploaded_file_info {
+      id: 1
+      name: "email.csv"
+      size: 316
+    }
+  }
+}
+)
+2022-03-11 18:04:49.641 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:04:49.642 Sessions still active: dict_keys([])
+2022-03-11 18:04:49.642 Files: 0; Sessions with files: 0
+2022-03-11 18:04:49.643 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:04:49.685 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:04:49.687 Deleting expired files...
+2022-03-11 18:04:49.864 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:04:51.759 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:04:52.552 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial subject "
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the trial message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 1
+        uploaded_file_info {
+          id: 1
+          name: "email.csv"
+          size: 316
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-6c8c4252fe152dbe6bc8d13b5a74b148-None"
+      trigger_value: true
+    }
+  }
+}
+
+2022-03-11 18:04:52.563 Beginning script thread
+2022-03-11 18:04:52.564 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial subject "
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the trial message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 1
+    uploaded_file_info {
+      id: 1
+      name: "email.csv"
+      size: 316
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-6c8c4252fe152dbe6bc8d13b5a74b148-None"
+  trigger_value: true
+}
+)
+2022-03-11 18:04:52.568 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:04:52.568 Sessions still active: dict_keys([])
+2022-03-11 18:04:52.569 Files: 0; Sessions with files: 0
+2022-03-11 18:04:52.570 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:05:13.946 Traceback (most recent call last):
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\site-packages\streamlit\script_runner.py", line 354, in _run_script
+    exec(code, module.__dict__)
+  File "C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py", line 10, in <module>
+    emailDriver()
+  File "C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py", line 71, in emailDriver
+    main(dfList,sender,password,body)
+  File "C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py", line 32, in main
+    server = smtplib.SMTP("smtp.gmail.com", 587)
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\socket.py", line 844, in create_connection
+    raise err
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\socket.py", line 832, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+2022-03-11 18:05:13.950 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:05:13.953 Deleting expired files...
+2022-03-11 18:05:14.119 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:05:18.954 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:05:22.148 Shutting down (id=2a02f997-b10b-40c0-b009-a2da36884c53)
+2022-03-11 18:05:22.149 Disconnecting files for session with ID 2a02f997-b10b-40c0-b009-a2da36884c53
+2022-03-11 18:05:22.150 Sessions still active: dict_keys([])
+2022-03-11 18:05:22.151 Files: 0; Sessions with files: 0
+2022-03-11 18:05:22.151 Deleting expired files...
+2022-03-11 18:05:22.185 Server state: State.ONE_OR_MORE_BROWSERS_CONNECTED -> State.NO_BROWSERS_CONNECTED
+2022-03-11 18:05:33.248 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py
+2022-03-11 18:05:33.250 ReportSession initialized (id=5751bd9f-489b-47ed-96db-2cb1aac1a3af)
+2022-03-11 18:05:33.250 Created new session for ws 2140431146192. Session ID: 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:05:33.253 Server state: State.NO_BROWSERS_CONNECTED -> State.ONE_OR_MORE_BROWSERS_CONNECTED
+2022-03-11 18:05:33.595 Received the following back message:
+rerun_script {
+  widget_states {
+  }
+}
+
+2022-03-11 18:05:33.628 Beginning script thread
+2022-03-11 18:05:33.632 Running script RerunData(query_string='', widget_states=)
+2022-03-11 18:05:33.632 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:05:33.633 Sessions still active: dict_keys([])
+2022-03-11 18:05:33.634 Files: 0; Sessions with files: 0
+2022-03-11 18:05:33.636 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:05:33.676 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:05:33.682 Deleting expired files...
+2022-03-11 18:05:33.896 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:05:38.051 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 18:05:38.062 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\sms.py
+2022-03-11 18:05:38.122 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:05:43.706 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+  }
+}
+
+2022-03-11 18:05:43.709 Beginning script thread
+2022-03-11 18:05:43.712 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+)
+2022-03-11 18:05:43.714 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:05:43.715 Sessions still active: dict_keys([])
+2022-03-11 18:05:43.715 Files: 0; Sessions with files: 0
+2022-03-11 18:05:43.716 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:05:43.740 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:05:43.744 Deleting expired files...
+2022-03-11 18:05:43.880 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:05:45.781 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:05:49.170 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+  }
+}
+
+2022-03-11 18:05:49.173 Beginning script thread
+2022-03-11 18:05:49.175 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+)
+2022-03-11 18:05:49.176 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:05:49.177 Sessions still active: dict_keys([])
+2022-03-11 18:05:49.177 Files: 0; Sessions with files: 0
+2022-03-11 18:05:49.177 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:05:49.195 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:05:49.198 Deleting expired files...
+2022-03-11 18:05:49.319 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:05:51.290 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:05:55.582 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "trial message"
+    }
+  }
+}
+
+2022-03-11 18:05:55.586 Beginning script thread
+2022-03-11 18:05:55.588 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "trial message"
+}
+)
+2022-03-11 18:05:55.590 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:05:55.591 Sessions still active: dict_keys([])
+2022-03-11 18:05:55.591 Files: 0; Sessions with files: 0
+2022-03-11 18:05:55.592 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:05:55.615 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:05:55.618 Deleting expired files...
+2022-03-11 18:05:55.784 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:05:58.136 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:06:01.639 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "trial message"
+    }
+  }
+}
+
+2022-03-11 18:06:01.654 Beginning script thread
+2022-03-11 18:06:01.656 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "trial message"
+}
+)
+2022-03-11 18:06:01.658 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:06:01.660 Sessions still active: dict_keys([])
+2022-03-11 18:06:01.662 Files: 0; Sessions with files: 0
+2022-03-11 18:06:01.663 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:06:01.685 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:06:01.687 Deleting expired files...
+2022-03-11 18:06:01.828 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:06:03.988 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:06:11.836 1 file(s) received for session 5751bd9f-489b-47ed-96db-2cb1aac1a3af widget $$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email
+2022-03-11 18:06:11.903 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "trial message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 2
+        uploaded_file_info {
+          id: 2
+          name: "email2.csv"
+          size: 121
+        }
+      }
+    }
+  }
+}
+
+2022-03-11 18:06:11.906 Beginning script thread
+2022-03-11 18:06:11.908 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "trial message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 2
+    uploaded_file_info {
+      id: 2
+      name: "email2.csv"
+      size: 121
+    }
+  }
+}
+)
+2022-03-11 18:06:11.910 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:06:11.911 Sessions still active: dict_keys([])
+2022-03-11 18:06:11.911 Files: 0; Sessions with files: 0
+2022-03-11 18:06:11.912 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:06:11.953 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:06:11.956 Deleting expired files...
+2022-03-11 18:06:12.107 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:06:13.492 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:06:20.943 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "trial message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "trial message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 2
+        uploaded_file_info {
+          id: 2
+          name: "email2.csv"
+          size: 121
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-6c8c4252fe152dbe6bc8d13b5a74b148-None"
+      trigger_value: true
+    }
+  }
+}
+
+2022-03-11 18:06:20.949 Beginning script thread
+2022-03-11 18:06:20.951 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "trial message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "trial message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 2
+    uploaded_file_info {
+      id: 2
+      name: "email2.csv"
+      size: 121
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-6c8c4252fe152dbe6bc8d13b5a74b148-None"
+  trigger_value: true
+}
+)
+2022-03-11 18:06:20.954 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:06:20.955 Sessions still active: dict_keys([])
+2022-03-11 18:06:20.956 Files: 0; Sessions with files: 0
+2022-03-11 18:06:20.957 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:06:42.041 Traceback (most recent call last):
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\site-packages\streamlit\script_runner.py", line 354, in _run_script
+    exec(code, module.__dict__)
+  File "C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py", line 10, in <module>
+    emailDriver()
+  File "C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py", line 71, in emailDriver
+    main(dfList,sender,password,body)
+  File "C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py", line 32, in main
+    server = smtplib.SMTP("smtp.gmail.com", 587)
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 255, in __init__
+    (code, msg) = self.connect(host, port)
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 341, in connect
+    self.sock = self._get_socket(host, port, self.timeout)
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\smtplib.py", line 312, in _get_socket
+    return socket.create_connection((host, port), timeout,
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\socket.py", line 844, in create_connection
+    raise err
+  File "C:\Users\Sagar Kumar\AppData\Local\Programs\Python\Python39\lib\socket.py", line 832, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+
+2022-03-11 18:06:42.055 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:06:42.065 Deleting expired files...
+2022-03-11 18:06:42.465 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:06:44.809 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:07:07.144 Shutting down (id=5751bd9f-489b-47ed-96db-2cb1aac1a3af)
+2022-03-11 18:07:07.145 Disconnecting files for session with ID 5751bd9f-489b-47ed-96db-2cb1aac1a3af
+2022-03-11 18:07:07.147 Sessions still active: dict_keys([])
+2022-03-11 18:07:07.148 Files: 0; Sessions with files: 0
+2022-03-11 18:07:07.148 Deleting expired files...
+2022-03-11 18:07:07.150 Server state: State.ONE_OR_MORE_BROWSERS_CONNECTED -> State.NO_BROWSERS_CONNECTED
+2022-03-11 18:07:09.669 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py
+2022-03-11 18:07:09.671 ReportSession initialized (id=4cdda3bd-2228-48a0-98e0-e039d851b6dd)
+2022-03-11 18:07:09.671 Created new session for ws 2140434902080. Session ID: 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 18:07:09.672 Server state: State.NO_BROWSERS_CONNECTED -> State.ONE_OR_MORE_BROWSERS_CONNECTED
+2022-03-11 18:07:09.785 Received the following back message:
+rerun_script {
+  widget_states {
+  }
+}
+
+2022-03-11 18:07:09.790 Beginning script thread
+2022-03-11 18:07:09.795 Running script RerunData(query_string='', widget_states=)
+2022-03-11 18:07:09.798 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 18:07:09.801 Sessions still active: dict_keys([])
+2022-03-11 18:07:09.804 Files: 0; Sessions with files: 0
+2022-03-11 18:07:09.808 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:07:09.856 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:07:09.862 Deleting expired files...
+2022-03-11 18:07:10.158 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:07:12.551 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 18:07:12.555 Watcher created for C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\sms.py
+2022-03-11 18:07:12.578 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:07:34.627 1 file(s) received for session 4cdda3bd-2228-48a0-98e0-e039d851b6dd widget $$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms
+2022-03-11 18:07:34.702 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+  }
+}
+
+2022-03-11 18:07:34.707 Beginning script thread
+2022-03-11 18:07:34.710 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+)
+2022-03-11 18:07:34.711 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 18:07:34.711 Sessions still active: dict_keys([])
+2022-03-11 18:07:34.712 Files: 0; Sessions with files: 0
+2022-03-11 18:07:34.713 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:07:34.754 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:07:34.756 Deleting expired files...
+2022-03-11 18:07:34.970 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:07:36.943 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:07:54.728 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+  }
+}
+
+2022-03-11 18:07:54.732 Beginning script thread
+2022-03-11 18:07:54.734 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+)
+2022-03-11 18:07:54.735 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 18:07:54.736 Sessions still active: dict_keys([])
+2022-03-11 18:07:54.736 Files: 0; Sessions with files: 0
+2022-03-11 18:07:54.737 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:07:54.769 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:07:54.771 Deleting expired files...
+2022-03-11 18:07:54.880 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:07:56.363 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 18:07:58.227 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f6f0d40a09b67c6ec94655871011ffbb-None"
+      trigger_value: true
+    }
+  }
+}
+
+2022-03-11 18:07:58.231 Beginning script thread
+2022-03-11 18:07:58.234 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f6f0d40a09b67c6ec94655871011ffbb-None"
+  trigger_value: true
+}
+)
+2022-03-11 18:07:58.235 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 18:07:58.237 Sessions still active: dict_keys([])
+2022-03-11 18:07:58.238 Files: 0; Sessions with files: 0
+2022-03-11 18:07:58.239 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 18:07:59.279 POST Request: https://api.twilio.com/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages.json
+2022-03-11 18:07:59.280 PAYLOAD: {'To': '+91 9875420954', 'From': '+19032895538', 'Body': 'The trial message for dry test'}
+2022-03-11 18:07:59.296 Starting new HTTPS connection (1): api.twilio.com:443
+2022-03-11 18:08:01.565 https://api.twilio.com:443 "POST /2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages.json HTTP/1.1" 201 833
+2022-03-11 18:08:01.568 POST Response: 201 {"sid": "SMc525749f50a44e50a1552dd70318b907", "date_created": "Fri, 11 Mar 2022 12:38:01 +0000", "date_updated": "Fri, 11 Mar 2022 12:38:01 +0000", "date_sent": null, "account_sid": "AC1b858528d369277efd22ff7f64d60ab0", "to": "+919875420954", "from": "+19032895538", "messaging_service_sid": null, "body": "Sent from your Twilio trial account - The trial message for dry test", "status": "queued", "num_segments": "1", "num_media": "0", "direction": "outbound-api", "api_version": "2010-04-01", "price": null, "price_unit": "USD", "error_code": null, "error_message": null, "uri": "/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages/SMc525749f50a44e50a1552dd70318b907.json", "subresource_uris": {"media": "/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages/SMc525749f50a44e50a1552dd70318b907/Media.json"}}
+2022-03-11 18:08:01.569 POST Request: https://api.twilio.com/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages.json
+2022-03-11 18:08:01.570 PAYLOAD: {'To': '+91 9790194046', 'From': '+19032895538', 'Body': 'The trial message for dry test'}
+2022-03-11 18:08:02.005 https://api.twilio.com:443 "POST /2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages.json HTTP/1.1" 201 833
+2022-03-11 18:08:02.006 POST Response: 201 {"sid": "SM0cd16f3dcb9a436b89d472ead2137b78", "date_created": "Fri, 11 Mar 2022 12:38:01 +0000", "date_updated": "Fri, 11 Mar 2022 12:38:01 +0000", "date_sent": null, "account_sid": "AC1b858528d369277efd22ff7f64d60ab0", "to": "+919790194046", "from": "+19032895538", "messaging_service_sid": null, "body": "Sent from your Twilio trial account - The trial message for dry test", "status": "queued", "num_segments": "1", "num_media": "0", "direction": "outbound-api", "api_version": "2010-04-01", "price": null, "price_unit": "USD", "error_code": null, "error_message": null, "uri": "/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages/SM0cd16f3dcb9a436b89d472ead2137b78.json", "subresource_uris": {"media": "/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages/SM0cd16f3dcb9a436b89d472ead2137b78/Media.json"}}
+2022-03-11 18:08:02.008 POST Request: https://api.twilio.com/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages.json
+2022-03-11 18:08:02.008 PAYLOAD: {'To': '+91 9306303870', 'From': '+19032895538', 'Body': 'The trial message for dry test'}
+2022-03-11 18:08:02.424 https://api.twilio.com:443 "POST /2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages.json HTTP/1.1" 201 833
+2022-03-11 18:08:02.426 POST Response: 201 {"sid": "SM3ed0979728614519b758597b2f2b3cfc", "date_created": "Fri, 11 Mar 2022 12:38:02 +0000", "date_updated": "Fri, 11 Mar 2022 12:38:02 +0000", "date_sent": null, "account_sid": "AC1b858528d369277efd22ff7f64d60ab0", "to": "+919306303870", "from": "+19032895538", "messaging_service_sid": null, "body": "Sent from your Twilio trial account - The trial message for dry test", "status": "queued", "num_segments": "1", "num_media": "0", "direction": "outbound-api", "api_version": "2010-04-01", "price": null, "price_unit": "USD", "error_code": null, "error_message": null, "uri": "/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages/SM3ed0979728614519b758597b2f2b3cfc.json", "subresource_uris": {"media": "/2010-04-01/Accounts/AC1b858528d369277efd22ff7f64d60ab0/Messages/SM3ed0979728614519b758597b2f2b3cfc/Media.json"}}
+2022-03-11 18:08:02.430 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 18:08:02.434 Deleting expired files...
+2022-03-11 18:08:02.578 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 18:08:04.395 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:31:56.789 File timestamp did not change: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 21:31:58.344 File MD5 changed: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 21:31:58.345 Enqueuing report_changed message (id=4cdda3bd-2228-48a0-98e0-e039d851b6dd)
+2022-03-11 21:31:58.345 File timestamp did not change: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 21:31:58.347 File MD5 changed: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\Semail.py
+2022-03-11 21:31:58.347 Enqueuing report_changed message (id=4cdda3bd-2228-48a0-98e0-e039d851b6dd)
+2022-03-11 21:32:00.958 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:00.966 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:02.157 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:02.160 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:13.865 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:13.865 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:31.625 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+  }
+}
+
+2022-03-11 21:32:31.626 Beginning script thread
+2022-03-11 21:32:31.626 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+)
+2022-03-11 21:32:31.627 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:32:31.627 Sessions still active: dict_keys([])
+2022-03-11 21:32:31.627 Files: 0; Sessions with files: 0
+2022-03-11 21:32:31.627 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 21:32:31.631 File timestamp did not change: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\app2.py
+2022-03-11 21:32:31.640 File timestamp did not change: C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\sms.py
+2022-03-11 21:32:31.647 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 21:32:31.648 Deleting expired files...
+2022-03-11 21:32:31.716 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 21:32:32.232 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:32:44.738 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:44.738 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:32:49.101 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "test message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+  }
+}
+
+2022-03-11 21:32:49.110 Beginning script thread
+2022-03-11 21:32:49.110 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "test message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+)
+2022-03-11 21:32:49.110 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:32:49.110 Sessions still active: dict_keys([])
+2022-03-11 21:32:49.110 Files: 0; Sessions with files: 0
+2022-03-11 21:32:49.110 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 21:32:49.119 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 21:32:49.120 Deleting expired files...
+2022-03-11 21:32:49.170 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 21:32:49.588 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:32:55.927 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "test message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: ""
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+  }
+}
+
+2022-03-11 21:32:55.928 Beginning script thread
+2022-03-11 21:32:55.929 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "test message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: ""
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+)
+2022-03-11 21:32:55.930 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:32:55.930 Sessions still active: dict_keys([])
+2022-03-11 21:32:55.930 Files: 0; Sessions with files: 0
+2022-03-11 21:32:55.931 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 21:32:55.946 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 21:32:55.947 Deleting expired files...
+2022-03-11 21:32:55.987 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 21:32:56.383 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:33:01.287 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "test message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the main message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+  }
+}
+
+2022-03-11 21:33:01.287 Beginning script thread
+2022-03-11 21:33:01.289 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "test message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the main message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+)
+2022-03-11 21:33:01.289 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:33:01.289 Sessions still active: dict_keys([])
+2022-03-11 21:33:01.289 Files: 0; Sessions with files: 0
+2022-03-11 21:33:01.289 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 21:33:01.296 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 21:33:01.297 Deleting expired files...
+2022-03-11 21:33:01.338 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 21:33:01.933 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:33:05.541 1 file(s) received for session 4cdda3bd-2228-48a0-98e0-e039d851b6dd widget $$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email
+2022-03-11 21:33:05.552 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "test message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the main message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 4
+        uploaded_file_info {
+          id: 4
+          name: "email2.csv"
+          size: 121
+        }
+      }
+    }
+  }
+}
+
+2022-03-11 21:33:05.552 Beginning script thread
+2022-03-11 21:33:05.553 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "test message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the main message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 4
+    uploaded_file_info {
+      id: 4
+      name: "email2.csv"
+      size: 121
+    }
+  }
+}
+)
+2022-03-11 21:33:05.553 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:33:05.554 Sessions still active: dict_keys([])
+2022-03-11 21:33:05.554 Files: 0; Sessions with files: 0
+2022-03-11 21:33:05.554 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 21:33:05.566 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 21:33:05.567 Deleting expired files...
+2022-03-11 21:33:05.620 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 21:33:06.212 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:33:08.602 Received the following back message:
+rerun_script {
+  widget_states {
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+      int_value: 0
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+      string_value: "pegfmatnhrbomcxd"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+      string_value: "test message subject"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+      string_value: "the main message"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+      file_uploader_state_value {
+        max_file_id: 3
+        uploaded_file_info {
+          id: 3
+          name: "number.csv"
+          size: 104
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+      string_value: "The trial message for dry test"
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+      file_uploader_state_value {
+        max_file_id: 4
+        uploaded_file_info {
+          id: 4
+          name: "email2.csv"
+          size: 121
+        }
+      }
+    }
+    widgets {
+      id: "$$GENERATED_WIDGET_KEY-6c8c4252fe152dbe6bc8d13b5a74b148-None"
+      trigger_value: true
+    }
+  }
+}
+
+2022-03-11 21:33:08.604 Beginning script thread
+2022-03-11 21:33:08.604 Running script RerunData(query_string='', widget_states=widgets {
+  id: "$$GENERATED_WIDGET_KEY-7a7e6c90dafe98ebecb98e7d7a8a8a12-None"
+  int_value: 0
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-8e7d8b8f33c4a91073b363f9eb5786d3-None"
+  string_value: "pegfmatnhrbomcxd"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-326610c910d41db8d13fd8cead6ac425-None"
+  string_value: "test message subject"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-b03140160ca574880423b1c6633b6fd5-None"
+  string_value: "the main message"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-sms"
+  file_uploader_state_value {
+    max_file_id: 3
+    uploaded_file_info {
+      id: 3
+      name: "number.csv"
+      size: 104
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-f125b2a7494768737b04e536a60947c7-None"
+  string_value: "The trial message for dry test"
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-0b144355ebdf702e5a521ad198d61136-email"
+  file_uploader_state_value {
+    max_file_id: 4
+    uploaded_file_info {
+      id: 4
+      name: "email2.csv"
+      size: 121
+    }
+  }
+}
+widgets {
+  id: "$$GENERATED_WIDGET_KEY-6c8c4252fe152dbe6bc8d13b5a74b148-None"
+  trigger_value: true
+}
+)
+2022-03-11 21:33:08.604 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:33:08.604 Sessions still active: dict_keys([])
+2022-03-11 21:33:08.604 Files: 0; Sessions with files: 0
+2022-03-11 21:33:08.604 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STARTED
+2022-03-11 21:33:17.459 OnScriptRunnerEvent: ScriptRunnerEvent.SCRIPT_STOPPED_WITH_SUCCESS
+2022-03-11 21:33:17.459 Deleting expired files...
+2022-03-11 21:33:17.511 OnScriptRunnerEvent: ScriptRunnerEvent.SHUTDOWN
+2022-03-11 21:33:17.951 Report finished successfully; removing expired entries from MessageCache (max_age=2)
+2022-03-11 21:35:50.749 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:35:50.749 Ignoring file C:\Users\Sagar Kumar\Documents\Projects\SIH 2022\Main code\log_data.log.
+Watched_files: {'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\app2.py': WatchedFile(md5='e9ac33ed400ab41da9cacb32cd3a53e0', modification_time=1646504742.606427, on_file_changed=<blinker.base.Signal object at 0x000001F25BDA8C10>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\Semail.py': WatchedFile(md5='5e9439e4e8e6cb23c7ea6e3206de7b3a', modification_time=1647014518.345815, on_file_changed=<blinker.base.Signal object at 0x000001F25BDCA0A0>), 'C:\\Users\\Sagar Kumar\\Documents\\Projects\\SIH 2022\\Main code\\sms.py': WatchedFile(md5='b6413171d1601d6554181a59d04ca02e', modification_time=1646740746.7678173, on_file_changed=<blinker.base.Signal object at 0x000001F25BCDBA30>)}
+2022-03-11 21:36:31.381 Shutting down (id=4cdda3bd-2228-48a0-98e0-e039d851b6dd)
+2022-03-11 21:36:31.381 Disconnecting files for session with ID 4cdda3bd-2228-48a0-98e0-e039d851b6dd
+2022-03-11 21:36:31.381 Sessions still active: dict_keys([])
+2022-03-11 21:36:31.381 Files: 0; Sessions with files: 0
+2022-03-11 21:36:31.381 Deleting expired files...
+2022-03-11 21:36:31.382 Server state: State.ONE_OR_MORE_BROWSERS_CONNECTED -> State.NO_BROWSERS_CONNECTED
+2022-03-11 21:36:35.089 Server state: State.NO_BROWSERS_CONNECTED -> State.STOPPING
+2022-03-11 21:36:35.089 Server state: State.STOPPING -> State.STOPPED
